@@ -1607,8 +1607,8 @@ div.lgx-single-registration.recommended{
     .navbar-nav {
     float: right;
     margin: 0;
-    margin-top: 1rem;
-    margin-right: 10rem;
+    margin-top: 0rem;
+    margin-right: 2rem;
     }
 }
 
@@ -2696,7 +2696,7 @@ lord-icon {
    
 
     .banner-parallax {
-        background-image: url("../img/bg/bg3.jpg");
+        background-image: url("../img/bg/bg3.png");
         background-size: cover;
         background-color: black;
         background-repeat: no-repeat;

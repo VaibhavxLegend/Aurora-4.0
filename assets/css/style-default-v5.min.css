@@ -7302,7 +7302,7 @@ button:hover:after {
 }
 
 .lgx-header .menu-onscroll {
-  background-color: #F0F5FB;
+  background-color: #000000;
   /* background-color: rgba(255, 255, 255, 0.98); */
   position: fixed;
   top: 0;
@@ -7350,7 +7350,7 @@ button:hover:after {
 }
 
 .lgx-header .menu-onscroll .lgx-navbar .lgx-nav li a {
-  color: #000;
+  color: #fff;
   font-family: roboto;
 }
 
@@ -7374,7 +7374,8 @@ button:hover:after {
   -moz-transition: all 0.2s ease-in-out 0s;
   -o-transition: all 0.2s ease-in-out 0s;
   transition: all 0.2s ease-in-out 0s;
-  max-width: 120px;
+  max-width: 100px;
+  padding-top: 1.3rem;
 }
 
 .lgx-header-position-fixed.menu-onscroll,
