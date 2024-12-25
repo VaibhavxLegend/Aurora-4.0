@@ -1112,7 +1112,7 @@ div.lgx-single-registration.recommended{
     flex-direction: column;
     width: 100%;
     padding: 1rem 3rem 1rem 1rem;
-    color: #7288a2;
+    color: #037a76;
     font-size: 1.8rem;
     font-weight: 400;
     border-bottom: 1px solid #e5e5e5;
@@ -1656,7 +1656,12 @@ div.lgx-single-registration.recommended{
 }
 
 #prizes {
-    background-color: rgb(240, 245, 250);
+    background-image: url(../img/footer-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    /* background-color: rgb(240, 245, 250); */
 }
 
 .prize-container{
