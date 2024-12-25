@@ -24,6 +24,14 @@
     ],
     "apple-touch-icons": "off",
     "meta-viewport": "off",
-    "manifest-file-extension": "off"
+    "manifest-file-extension": "off",
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "-moz-column-width"
+        ]
+      }
+    ]
   }
 }
