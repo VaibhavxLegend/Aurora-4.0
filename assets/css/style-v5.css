@@ -488,7 +488,7 @@ a {
 }
 
 .resource_color {
-    color: #eee;
+    color: #ffffff;
 }
 
 .profile_height {
@@ -2145,6 +2145,7 @@ lord-icon {
 /* Footer */
 .lgx-footer>.lgx-inner-footer {
     background-color: #0a080eb0 !important;
+    z-index: 2;
 }
 
 .lgx-footer-area {
@@ -2486,6 +2487,7 @@ lord-icon {
 
     .lgx-footer-area {
         padding-bottom: 0px !important;
+        z-index: 2;
     }
 
     .lgx-footer-single {

@@ -12856,6 +12856,7 @@ blockquote.lgx-testi-single:before {
 .lgx-social-footer {
   font-size: 26px;
   margin-left: 0;
+  
 }
 
 .lgx-social-footer li {
@@ -12872,8 +12873,8 @@ blockquote.lgx-testi-single:before {
 .lgx-social-footer li a {
   color: #87ceeb !important;
   /* background: #fff; */
-  width: 31px;
-  height: 41px;
+  width: 41px;
+  height: 50px;
   border-radius: 50%;
   display: inline-block;
   text-align: center;
@@ -13002,7 +13003,7 @@ blockquote.lgx-testi-single:before {
 .lgx-footer-single .footer-title,
 .lgx-footer-single ul li {
   font-family: Oswald, sans-serif;
-  font-size: 1.6rem;
+  font-size: 2.5rem;
 }
 
 .lgx-footer-single .map-link:hover {
