@@ -921,7 +921,8 @@ a {
     background-color: #fff;
     margin: 15px 10px;
     padding: 20px 5px;
-  
+    height: 20rem;
+    grid-template-columns: repeat(4, 1fr);
     align-content: center;
     text-align: center;
     justify-content: center;

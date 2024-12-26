@@ -5,7 +5,7 @@
 class TextScramble {
     constructor(el) {
       this.el = el;
-      this.chars = '!<>-L#rT*eacHckWin';
+      this.chars = '!<>-l#ow*uai#$%^kci(0';
       this.update = this.update.bind(this);
     }
     setText(newText) {
@@ -61,7 +61,7 @@ class TextScramble {
   // ——————————————————————————————————————————————————
   
   const phrases = [
-  'Learn. Teach. Hack. Win'];
+  'Follow us on our Socials'];
   
   
   const el = document.querySelector('.text');
