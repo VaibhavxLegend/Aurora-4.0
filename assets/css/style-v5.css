@@ -63,7 +63,7 @@ html {
 }
 
 
-.home_hackCBS>h2 {
+.home_Aurora-4.0>h2 {
     color: #d6b7bc;
     font-family: 'Poppins';
     font-weight: 700;
@@ -75,7 +75,7 @@ html {
 }
 
 
-.home_hackCBS>h1 {
+.home_Aurora-4.0>h1 {
     /* font-family: "Hemi Head W00 Bold" !important;
     font-style: italic;
     font-weight: 700;
@@ -90,13 +90,13 @@ html {
     color: #F8F5FF;
     margin-top: 15vh;
 }
-.hackcbs_landing {
+.aurora_landing {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: -26rem;
   }
-.home_hackCBS .text {
+.home_Aurora-4.0 .text {
     /* width: fit-content;
     font-style: italic;
     font-weight: 600;
@@ -117,7 +117,7 @@ html {
     padding-left: 0.8rem;
 }
 
-.home_hackCBS>h1>span {
+.home_Aurora-4.0>h1>span {
     /* font-family: "Hemi Head W00 Bold" !important;
     font-style: italic;
     font-weight: 800;
@@ -2166,18 +2166,18 @@ lord-icon {
 /* ************ Media Queries ************** */
 
 @media screen and (max-width:1227px) {
-    .home_hackCBS>h1 {
+    .home_Aurora-4.0>h1 {
         font-size: 150px;
     }
     
 }
 
 @media screen and (max-width:1039px) {
-    .home_hackCBS>h1 {
+    .home_Aurora-4.0>h1 {
         /* line-height: 190px; */
     }
 
-    .home_hackCBS>h1>span {
+    .home_Aurora-4.0>h1>span {
         font-size: 17rem;
         padding-left: 1rem;
     }
@@ -2283,13 +2283,13 @@ lord-icon {
    
 }
 @media screen and (max-width: 900px) {
-    .home_hackCBS>h1 {
+    .home_Aurora-4.0>h1 {
         /* font-size: 13vw; */
         font-size: 16vw;
         line-height: 110px;
     }
 
-    .home_hackCBS>h1>span {
+    .home_Aurora-4.0>h1>span {
         font-size: 18vw;
         padding-left: 0.6rem;
     }
@@ -2298,7 +2298,7 @@ lord-icon {
         font-size: 2.5rem;
     }
 
-    .home_hackCBS>h2 {
+    .home_Aurora-4.0>h2 {
         font-size: 3.7vw;
     }
 
@@ -2340,11 +2340,11 @@ lord-icon {
         font-size: 4vw;
     }
 
-    .home_hackCBS>h2 {
+    .home_Aurora-4.0>h2 {
         margin-top: 4.5vh;
     }
 
-    .home_hackCBS>h1 {
+    .home_Aurora-4.0>h1 {
         /* margin-top: 0vh; */
         margin-top: -20vh;
     }
@@ -2391,7 +2391,7 @@ lord-icon {
                         
 
 @media screen and (max-width:624px) {
-    .home_hackCBS>h1 {
+    .home_Aurora-4.0>h1 {
         font-size: 15vw;
         line-height: 110px;
         /* margin-top: -9vh; */
@@ -2399,7 +2399,7 @@ lord-icon {
         margin-bottom: 2vh;
     }
 
-    .home_hackCBS>h2 {
+    .home_Aurora-4.0>h2 {
         font-size: 4vw;
         line-height: 110px;
         margin-top: -2vh;
@@ -2407,7 +2407,7 @@ lord-icon {
         margin-left: 0px;
     }
 
-    .home_hackCBS>h1>span {
+    .home_Aurora-4.0>h1>span {
         font-size: 17vw;
     }
 
@@ -2416,7 +2416,7 @@ lord-icon {
         margin-top: 10rem;
     }
 
-    .home_hackCBS .text {
+    .home_Aurora-4.0 .text {
         font-size: 4.5vw;
         padding: 0;
         margin: -2rem auto 0 auto;
@@ -2465,13 +2465,13 @@ lord-icon {
 }
 
 @media screen and (max-width: 476px) {
-    .home_hackCBS>h1 {
+    .home_Aurora-4.0>h1 {
         /* font-size: 14vw; */
         font-size: 14.5vw;
         line-height: 100px;
     }
 
-    .home_hackCBS>h1>span {
+    .home_Aurora-4.0>h1>span {
         font-size: 16.5vw;
     }
 
@@ -2691,11 +2691,11 @@ lord-icon {
 }
 
   
-  .hackcbs_landing{
+  .aurora_landing{
     width: 72%;
   }
   @media screen and (max-width: 684px){
-    .hackcbs_landing {
+    .aurora_landing {
         width: 90%;
     }}
    

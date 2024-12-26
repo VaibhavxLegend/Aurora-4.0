@@ -1,5 +1,5 @@
 // document.addEventListener("DOMContentLoaded", function () {
-//   let e = { buttonSelector: "#devfolio-button", key: "hackcbs-3" },
+//   let e = { buttonSelector: "#devfolio-button", key: "Aurora-4.0-3" },
 //     o = document.createElement("script");
 //   (o.src = "https://apply.devfolio.co"),
 //     document.head.append(o),
